@@ -1,0 +1,40 @@
+#nav-bg {
+	background-color: forestgreen;
+
+}
+
+#about-me {
+	font-family: 'Kalam', cursive;
+}
+
+
+#iitb-logo {
+	max-height: 300px;
+	width: 292.5px;
+	float: center;
+}
+
+#bootstrap-logo {
+	max-height: 150px;
+	width: 150px;
+}
+
+
+
+#gallery-page {
+	background-color: #e9ecef;
+}
+
+#img-gal {
+	background-color: #e9ecef;
+	color: black;
+	border-color: black;
+}
+
+#footer {
+	background-color: forestgreen;
+}
+
+#contact-form {
+	background-color: #e9ecef;
+}

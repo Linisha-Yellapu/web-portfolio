@@ -1,5 +1,5 @@
 #nav-bg {
-	background-color: forestgreen;
+	background-color: skyblue;
 
 }
 
@@ -15,8 +15,8 @@
 }
 
 #bootstrap-logo {
-	max-height: 150px;
-	width: 150px;
+	max-height: 125px;
+	width: 125px;
 }
 
 
@@ -32,7 +32,7 @@
 }
 
 #footer {
-	background-color: forestgreen;
+	background-color: skyblue;
 }
 
 #contact-form {
